@@ -13,3 +13,5 @@ to initialise project: ```npm init -y```
  install readline-sync: ```npm i --save readline-sync```
 
  install typescript types for readline-sync: ```npm i --save @types/readline-sync```
+
+ project from: https://www.youtube.com/watch?v=L02BfvA7mgA&list=PL41PQx5PPbt6OheJQkg-QNROfx9j75MuR&index=3
